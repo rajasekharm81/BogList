@@ -1,0 +1,25 @@
+.listItemContainer {
+  display: flex;
+  width: 60vw;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.listItemHeadContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  font-size: larger;
+  font-weight: bold;
+}
+
+.pubdate {
+  color: #999999;
+}
+
+hr {
+  width: 100%;
+}
